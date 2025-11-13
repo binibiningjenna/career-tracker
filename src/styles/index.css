@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --primaryFont: "Poppins", sans-serif;
+  --darkColor: #101010;
+  --lightColor: #f5f3f3;
+}
